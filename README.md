@@ -1,7 +1,9 @@
 # Blitzy-StockTrader
 Forked from IBMStockTrader's repos, this is a repo that is the parent repo of a number of repos that comprise the IBMStockTrader application
 
-_From the original IBMStockTrader README_
+_From the original IBMStockTrader README_   
+
+
 The IBMStockTrader application demonstrates how to build a cloud-native application out of a set of containerized microservices (each in their own repo under this org) that will run in Kubernetes.  It was initially created at IBM, and now is primarily maintained by Kyndryl (by the ex-IBMers that created it).  An intro article (that is a bit dated, but still useful) is at https://medium.com/hybrid-cloud-engineering/introducing-the-ibm-stock-trader-sample-b9b1ad6749e6 (and there are many other articles under https://medium.com/hybrid-cloud-engineering and https://medium.com/cloud-journey-optimization that use Stock Trader as their example).  There is also a recently published book (in paperback and Kindle) that uses Stock Trader as its example throughout, available at https://www.amazon.com/Practical-Cloud-Native-Java-Development-MicroProfile/dp/1801078807.
 
 It originally ran in the (now-defunct) *IBM Cloud Private* product as its Kube implementation, but has since been successfully tested in the *IBM Kubernetes Service* (IKS), the *Elastic Kubernetes Service* (EKS) in AWS, the *Azure Kubernetes Service* (AKS), the *Google Kubernetes Engine* (GKE), the *Tanzu Kubernetes Grid* (TKG), and in the *OpenShift Container Platform* (in both IBM Cloud and in AWS).  Most of the microservices are *Java*-based, running in the *Open Liberty* application server.  Discussion occurs on Gitter, at https://gitter.im/IBMStockTrader/community - feel free to sign up and join in on the discussion!
