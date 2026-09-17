@@ -1,0 +1,48 @@
+[submodule "frontend/trader"]
+	path = frontend/trader
+	url = https://github.com/aidan-blitzy/trader.git
+[submodule "backend/broker"]
+	path = backend/broker
+	url = https://github.com/aidan-blitzy/broker.git
+[submodule "backend/portfolio"]
+	path = backend/portfolio
+	url = https://github.com/aidan-blitzy/portfolio.git
+[submodule "backend/account"]
+	path = backend/account
+	url = https://github.com/aidan-blitzy/account.git
+[submodule "backend/cash-account-cobol"]
+	path = backend/cash-account-cobol
+	url = https://github.com/aidan-blitzy/cash-account-cobol.git
+[submodule "backend/stock-quote"]
+	path = backend/stock-quote
+	url = https://github.com/aidan-blitzy/stock-quote.git
+[submodule "backend/trade-history"]
+	path = backend/trade-history
+	url = https://github.com/aidan-blitzy/trade-history.git
+[submodule "backend/messaging"]
+	path = backend/messaging
+	url = https://github.com/aidan-blitzy/messaging.git
+[submodule "backend/notification-twitter"]
+	path = backend/notification-twitter
+	url = https://github.com/aidan-blitzy/notification-twitter.git
+[submodule "backend/stock-sentiment-analysis"]
+	path = backend/stock-sentiment-analysis
+	url = https://github.com/aidan-blitzy/stock-sentiment-analysis.git
+[submodule "backend/portfolio-assistant"]
+	path = backend/portfolio-assistant
+	url = https://github.com/aidan-blitzy/portfolio-assistant.git
+[submodule "infra/stocktrader-operator"]
+	path = infra/stocktrader-operator
+	url = https://github.com/aidan-blitzy/stocktrader-operator.git
+[submodule "infra/stocktrader-gitops"]
+	path = infra/stocktrader-gitops
+	url = https://github.com/aidan-blitzy/stocktrader-gitops.git
+[submodule "infra/stocktrader-setup"]
+	path = infra/stocktrader-setup
+	url = https://github.com/aidan-blitzy/stocktrader-setup.git
+[submodule "tools/test-tools"]
+	path = tools/test-tools
+	url = https://github.com/aidan-blitzy/test-tools.git
+[submodule "tools/looper"]
+	path = tools/looper
+	url = https://github.com/aidan-blitzy/looper.git
